@@ -27,5 +27,5 @@ function appendKitten(name){
 }
 
 function 'prependKitten(name){
-  ["arnold, ...kittens"]
+  ["Arnold, ...kittens"]
 }
