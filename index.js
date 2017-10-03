@@ -6,3 +6,8 @@ function destructivelyAppendKitten(name){
   kitten.push(Ralph)
   return kitten
 }
+
+function destructivelyPrependKitten(name){
+  kitten.unshift(Bob)
+  return kitten
+}
